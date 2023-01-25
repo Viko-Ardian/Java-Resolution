@@ -1,7 +1,6 @@
 Java Resolution
 
 - Finis basic syntaxs Java Basic √
-- Finish practical Java Case TodoList Aplication √
 - Finish Java Object Orianted Programing √
 - Finish Java practical Object Orianted Programing CRUD Application √
 - Finish Java Generic
@@ -11,4 +10,4 @@ Java Resolution
 - Finish Java Stream
 - Finish Java Database
 - Finish Practical Java Generic
-
+- Get Job
