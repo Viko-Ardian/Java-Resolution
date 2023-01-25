@@ -9,3 +9,6 @@ Java Resolution
 - Finish Java Lambda
 - Finish Apache Maven
 - Finish Java Stream
+- Finish Java Database
+- Finish Practical Java Generic
+
