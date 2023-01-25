@@ -9,5 +9,5 @@ Java Resolution
 - Finish Apache Maven
 - Finish Java Stream
 - Finish Java Database
-- Finish Practical Java Generic
+- Finish Practical Java Database
 - Get Job
