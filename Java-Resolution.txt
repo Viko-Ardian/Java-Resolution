@@ -1,0 +1,11 @@
+Java Resolution
+
+- Finis basic syntaxs Java Basic √
+- Finish practical Java Case TodoList Aplication √
+- Finish Java Object Orianted Programing √
+- Finish Java practical Object Orianted Programing CRUD Application √
+- Finish Java Generic
+- Finish Java Collection
+- Finish Java Lambda
+- Finish Apache Maven
+- Finish Java Stream
