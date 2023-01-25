@@ -1,0 +1,5 @@
+Python Tutuorial Goals
+
+- Finished Basic Syntaxs and concept
+- Finished Basic practicals Python
+- Finished Python Object Oriented Programing
