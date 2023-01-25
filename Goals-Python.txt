@@ -6,3 +6,4 @@ Python Tutuorial Goals
   
 - Finished Basic practicals Python
 - Finished Python Object Oriented Programing
+- Finished Django
